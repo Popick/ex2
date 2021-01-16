@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         }else if(rand==3){
             iv.setImageResource(R.drawable.nbam);
         }
-        btn1.setText("Y̷̰̏Ȍ̷͎U̶̲̿R̴̜͐ ̷̫͠N̴̺̅Ů̸̻M̶̪̈́B̴̮͛Ę̵̆Ŗ̸͆ ̶̹͘I̶̫͝S̶͓̿:̶̣̫̜̤̭̖̙͑̾͌̌̀̓̎̌̕ "+ rand);
+        btn1.setText("YOUR NUMBER IS! "+ rand);
     }
 
 }
